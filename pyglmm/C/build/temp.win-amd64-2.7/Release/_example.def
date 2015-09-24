@@ -1,0 +1,3 @@
+LIBRARY _example.pyd
+EXPORTS
+init_example
